@@ -15,3 +15,5 @@ Data Cleaning and Preparation: Handling missing values, converting categorical v
 Exploratory Data Analysis (EDA): Visualizing and summarizing the data to identify patterns and relationships.
 Feature Engineering: Creating new features from existing data to improve model performance.
 Statistical Analysis: Applying statistical tests to understand the significance of various factors affecting survival.
+
+![image](https://github.com/user-attachments/assets/9b98411d-3736-4b91-8f5d-5540ca8a6f8c)
